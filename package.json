@@ -1,0 +1,28 @@
+{
+  "name": "nodocker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "nodocker": "cli.js",
+    "nd": "cli.js"
+  },
+  "dependencies": {
+    "cross-spawn": "^4.0.0",
+    "meow": "^3.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://frontainer@github.com/frontainer/nodocker.git"
+  },
+  "author": "frontainer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frontainer/nodocker/issues"
+  },
+  "homepage": "https://github.com/frontainer/nodocker#readme"
+}
