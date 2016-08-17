@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "nodocker": "cli.js",
-    "nd": "cli.js"
+    "nodocker": "bin/cli.js",
+    "nd": "bin/cli.js"
   },
   "dependencies": {
     "cross-spawn": "^4.0.0",
